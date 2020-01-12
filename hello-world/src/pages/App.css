@@ -1,0 +1,15 @@
+a {
+  text-decoration: none;
+  target: _blank;
+}
+body {
+  background: #000000 !important;
+}
+
+.particleContainer {
+  position: fixed;
+}
+
+html {
+  scroll-behavior: smooth;
+}

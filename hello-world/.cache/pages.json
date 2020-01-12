@@ -1,0 +1,32 @@
+[
+    {
+        "componentChunkName": "component---src-pages-index-js",
+        "jsonName": "index",
+        "path": "/"
+    },
+    {
+        "componentChunkName": "component---src-pages-components-feature-js",
+        "jsonName": "components-feature-125",
+        "path": "/components/Feature/"
+    },
+    {
+        "componentChunkName": "component---src-pages-components-feature-reverse-js",
+        "jsonName": "components-feature-reverse-320",
+        "path": "/components/FeatureReverse/"
+    },
+    {
+        "componentChunkName": "component---src-pages-components-header-js",
+        "jsonName": "components-header-459",
+        "path": "/components/Header/"
+    },
+    {
+        "componentChunkName": "component---src-pages-components-nav-bar-js",
+        "jsonName": "components-nav-bar-d4b",
+        "path": "/components/NavBar/"
+    },
+    {
+        "componentChunkName": "component---src-pages-components-side-bar-js",
+        "jsonName": "components-side-bar-f96",
+        "path": "/components/SideBar/"
+    }
+]
