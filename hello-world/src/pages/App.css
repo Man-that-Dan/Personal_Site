@@ -1,6 +1,7 @@
 a {
   text-decoration: none;
   target: _blank;
+  color: yellow;
 }
 body {
   background: #000000 !important;
