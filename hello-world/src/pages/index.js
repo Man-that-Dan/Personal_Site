@@ -93,7 +93,7 @@ export default () => (
         <p style={HeroText}> View these and my other projects on my github at https://github.com/Man-that-Dan or by clicking on the GitHub
         icon in the sidebar.  <br></br> <br></br> I'm always happy to talk about all things Computer Science, Tech, or Electronics.
         Feel free to get in touch!
-        <br></br> <br></br>Email me at dantoro1995@gmail.com. I look forward to hearing from you!<br><br><br><br></br></br></br></br>
+        <br></br> <br></br>Email me at dantoro1995@gmail.com. I look forward to hearing from you!<br></br><br></br><br></br><br></br>
         "The man is a success who has lived well, laughed often, and loved much; who has gained the respect of intelligent men and the love of children;
          who has filled his niche and accomplished his task; who leaves the world better than he found it,
           whether by an improved poppy, a perfect poem, or a rescued soul; who never lacked appreciation of earth's beauty
