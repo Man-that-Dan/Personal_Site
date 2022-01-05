@@ -74,7 +74,7 @@ export default () => (
       I'm curious and creative by nature I wanted to maximize my exposure to interesting, complex problems. I have experience with are:
       C, C++, Java, PHP, Python, are my top top languages. I have backend, frontend, AWS experience and an interest in all things robotics and electronic, or space related. I am constantly seeking
       new technologies and skills to experiment with. I believe technology, used morally, can revolutionize people's lives for the better. <br></br> <br></br> When I'm not googling interesting things I'm reading, tinkering with electronics,
-       playing volleyball, swing dancing,
+       playing volleyball, flying planes, or swing dancing,
       or rewatching any of the Marvel Movies (Spider-Man is #1). <br></br> <br></br>
       I'm always looking to learn more about robotics, embedded programming, or science and technology in general. Feel free to check out my projects and reach out to chat.</p>
     </div>
